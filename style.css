@@ -25,8 +25,9 @@ body.dragging, body.dragging * {
 body {
   display: flex;
   justify-content: center;
-  background-color: #f7f7f7;
+  
   background: url('notebookbg.jpg');
+  background-color: #f7f7f7;
   background-size: 1200px;
   background-repeat: no-repeat;
   background-position: center top;
